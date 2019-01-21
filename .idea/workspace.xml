@@ -1,14 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="43656613-d46d-4844-9fcf-76f165edefca" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
+=======
+    <list default="true" id="3c424882-0eb0-41f3-a72a-9edc9759aea2" name="Default Changelist" comment="" />
+>>>>>>> aa7f84e180c5d8dae2759e04ce7ebf64beb22e0a
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+<<<<<<< HEAD
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
@@ -39,16 +44,48 @@
     <option name="height" value="1056" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+=======
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="617" />
+    <option name="y" value="27" />
+    <option name="width" value="980" />
+    <option name="height" value="1039" />
+  </component>
+>>>>>>> aa7f84e180c5d8dae2759e04ce7ebf64beb22e0a
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+<<<<<<< HEAD
       <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane" />
     </panes>
   </component>
+=======
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="JavaCollab" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaCollab" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+>>>>>>> aa7f84e180c5d8dae2759e04ce7ebf64beb22e0a
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -61,6 +98,7 @@
       </list>
     </option>
   </component>
+<<<<<<< HEAD
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
@@ -73,22 +111,36 @@
       </method>
     </configuration>
   </component>
+=======
+>>>>>>> aa7f84e180c5d8dae2759e04ce7ebf64beb22e0a
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
+<<<<<<< HEAD
       <changelist id="43656613-d46d-4844-9fcf-76f165edefca" name="Default Changelist" comment="" />
       <created>1548081184738</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1548081184738</updated>
+=======
+      <changelist id="3c424882-0eb0-41f3-a72a-9edc9759aea2" name="Default Changelist" comment="" />
+      <created>1548081819753</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1548081819753</updated>
+>>>>>>> aa7f84e180c5d8dae2759e04ce7ebf64beb22e0a
     </task>
     <servers />
   </component>
   <component name="ToolWindowManager">
+<<<<<<< HEAD
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="1" />
     <editor active="true" />
+=======
+    <frame x="494" y="22" width="784" height="831" extended-state="0" />
+>>>>>>> aa7f84e180c5d8dae2759e04ce7ebf64beb22e0a
     <layout>
       <window_info id="Image Layers" />
       <window_info id="Designer" />
@@ -117,6 +169,7 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
   </component>
+<<<<<<< HEAD
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/Main.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -126,4 +179,6 @@
       </provider>
     </entry>
   </component>
+=======
+>>>>>>> aa7f84e180c5d8dae2759e04ce7ebf64beb22e0a
 </project>
